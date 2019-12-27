@@ -8,9 +8,9 @@ class Config:
 
     API_HASH = os.environ["API_HASH"]                                   # Get from https://my.telegram.org/apps
 
-    CLIENT_ID = os.environ["CLIENT_ID"]                                 # Get from https://console.developers.google.com/apis/credentials
+    CLIENT_ID = os.environ["483846629784-79tbj60u4e8bdahvn8aus30ik5ke56uq.apps.googleusercontent.com"]                                 # Get from https://console.developers.google.com/apis/credentials
 
-    CLIENT_SECRET = os.environ["CLIENT_SECRET"]                         # Get from https://console.developers.google.com/apis/credentials
+    CLIENT_SECRET = os.environ["_SRpSpkZVY3Sch_AvZc5XK8J"]                         # Get from https://console.developers.google.com/apis/credentials
 
     BOT_OWNER = int(os.environ["BOT_OWNER"])                            # Bot owner's telegram id
 
