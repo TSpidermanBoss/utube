@@ -2,7 +2,7 @@ import os
 
 class Config:
 
-    BOT_TOKEN = os.environ["1043241288:AAF7cNXrdFmG0wMRj1AQJczInr9fB32SXdY"]                                 # Get From https://t.me/BotFather
+    BOT_TOKEN = os.environ['1043241288:AAF7cNXrdFmG0wMRj1AQJczInr9fB32SXdY']                                 # Get From https://t.me/BotFather
 
     API_ID = int(os.environ["965018"])                                  # Get from https://my.telegram.org/apps
 
